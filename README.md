@@ -1,2 +1,2 @@
-# Coursera-test
-Coursera test repositori
+# COURSERA HOMEWORKS
+Coursera homeworks repositorie 
